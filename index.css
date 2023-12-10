@@ -1,0 +1,49 @@
+*{
+
+}
+body{
+    background-color: rgb(104, 133, 103);
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: solid 3px lightgray;
+    border-radius: 5px;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+#description {
+    text-align: center;
+    background-color: lightgray;
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+input{
+    background-color: white;
+}
+textarea{
+    background-color: white;
+    border-width: 2px;
+}
+form{
+    padding: 20px;
+    color: white;
+    padding: 2px;
+    border: 3px solid lightgray;
+    border-radius: 3px;
+
+}
+button{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 3px;
+}
